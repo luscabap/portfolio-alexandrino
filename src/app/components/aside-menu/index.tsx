@@ -7,11 +7,11 @@ export default function AsideMenu() {
       <ThemeToggle />
       <nav>
       <ul className="flex flex-col gap-4">
-        <li><Link href="">Opção 1</Link></li>
-        <li><Link href="">Opção 12</Link></li>
-        <li><Link href="">Opção 13</Link></li>
-        <li><Link href="">Opção 14</Link></li>
-        <li><Link href="">Opção 15</Link></li>
+        <li><Link href="">Home</Link></li>
+        <li><Link href="">Sobre</Link></li>
+        <li><Link href="">Projetos</Link></li>
+        <li><Link href="">Skills</Link></li>
+        <li><Link href="">Contato</Link></li>
       </ul>
       </nav>
     </aside>
