@@ -2,7 +2,7 @@ export default function About(){
 
   return (
     <div className="bg-zinc-400 p-4 flex flex-col gap-4 text-zinc-900">
-      <p className="indent-3">Alexandrino Alves dos Santos Neto, natural de Recife, Pernambuco, tenho 34 anos e sou formado em Processos Gerenciais, além de estar em constante atualização como pós-graduando em Gestão de Processos (Business Process Management).</p>
+      <p className="indent-3">Portfólio Alves Neto, natural de Recife, Pernambuco, tenho 34 anos e sou formado em Processos Gerenciais, além de estar em constante atualização como pós-graduando em Gestão de Processos (Business Process Management).</p>
       <p className="indent-3">Ao longo da carreira, destaco-me como gestor em empresas de segmentos distintos, acumulando uma sólida experiência na otimização e reestruturação de processos organizacionais.</p>
       <p className="indent-3">Na VN Advocacia e Assessoria Jurídica, assumi o papel de gestor com o objetivo de eliminar gargalos, redesenhar fluxos de trabalho e implementar soluções estratégicas que resultaram em maior eficiência e redução de custos excessivos.</p>
       <p className="indent-3">Essa atuação trouxe impactos significativos, alinhando a operação às melhores práticas de mercado e gerando resultados sustentáveis para a organização.</p>
